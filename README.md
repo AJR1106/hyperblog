@@ -5,6 +5,7 @@ Un blog increible para el curso de git y github de platzi
 
 *Soy Divertido
 *Temerario
+*Soltero
 
 😁Actualmente Estoy Trabajando😁
 
