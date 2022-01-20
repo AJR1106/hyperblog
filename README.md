@@ -4,6 +4,7 @@ Un blog increible para el curso de git y github de platzi
 ### ***Hola, Mi Nombre Es Andres Rojas***
 
 *Soy Divertido
+*Temerario
 
 😁Actualmente Estoy Trabajando😁
 
